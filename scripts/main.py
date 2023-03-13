@@ -13,5 +13,6 @@ if __name__ == '__main__':
     fuctions.print_hi('PyCharm')
     print('method 2:')
     print_hi('PyCharm')
+    print('end')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
